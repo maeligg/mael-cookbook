@@ -1,8 +1,8 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
-    "primaryColor": "#ffdb70",
-    "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name or ingredients"
+  "name": "My Online Cookbook",
+  "metaDescription": "The online cookbook of Maël",
+  "author": "Maël",
+  "primaryColor": "#ffdb70",
+  "secondaryColor": "#32816e",
+  "searchLabel": "Find recipes by name or ingredients"
 }
