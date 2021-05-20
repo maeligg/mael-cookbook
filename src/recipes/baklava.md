@@ -3,24 +3,24 @@ title: Baklava
 image: /recipe-images/baklava.jpg
 tags:
   - Dessert 🍰
-  - Levantine
+  - Levantin
 time: 60 min
 servings: 24
 ingredients:
-  - 500g nuts (pistachio, walnuts, almonds or a mix)
-  - 150g butter
-  - 200g honey
-  - 100g white sugar
-  - 10 phyllo sheets
+  - 500g noix (pistaches, cerneaux de noix, amandes ou un mix)
+  - 150g beurre
+  - 200g miel
+  - 100g sucre blanc
+  - 15 feuilles de pâte filo
 ---
-Grind all the nuts with the sugar. They should still have some texture, you don't want powder.
+Broyer les noix sans les réduire en poudre, puis ajouter le sucre et mélanger.
 
-Melt the butter in a pan and pre-heat the oven at 200°C.
+Faire fondre le beurre et préchauffer le four à 200°C.
 
-In a large baking dish, put in one of the phyllo sheets, cover it with butter (ideally using a cooking brush), and repeat 4 more times. Distribute the nuts mixture evenly, then add the other 5 phyllo sheets (covering with butter between each one again). You can repeat this whole process a second time if you want extra-tall baklava and you still have enough nuts, but 1 layer already works fine.
+Dans un grand plat carré ou rectangulaire, étaler une feuille filo (couper ou rabattre les bords si nécessaire) puis recouvrir de beurre à l'aide d'un pinceau. Répéter l'opération 4 fois supplémentaires. Répartir la moitié de la mixture des noix, puis à nouveau 5 feuilles beurrées, le reste de la mixture, et terminer par les 5 dernières feuilles.
 
-Cut through the layered phyllo sheets in the shape of your choice (I like long diamonds). You should cut down to the bottom of the dish. Bake for 20 minutes.
+Découper jusqu'au fond du plat en carrés ou en losanges, puis enfourner pour +-20 minutes.
 
-In the meantime, prepare the syrup : heat up the honey with a little extra water and the cinnamon sticks. Traditional recipes also use orange blossom water which is great if you have some at hand, but not required. Remove the cinnamon before serving.
+Pendant ce temps, préparer le sirop : faire chauffer le miel avec un peu d'eau et les bâtons de cannelle. La plupart des recettes recommandent d'ajouter de l'eau de fleur d'oranger à ce stade, si vous en avez vous pouvez en ajouter 4 cuillères à soupe. Retirer les bâtons de cannelle une fois que le sirop est chaud.
 
-When the baklava is cooked, immediately pour in the syrup, distributed evenly. It will look very liquid but don't worry : it will solidify as it cools down. You should wait until it's completely cold before eating.
+Au sortir du four, verser directement le sirop chaud sur le baklava. Ne pas s'inquiéter si c'est très liquide : l'ensemble va se solidifier en refroidissant. Attendre que le baklava soit complètement refroidi avant de déguster.
