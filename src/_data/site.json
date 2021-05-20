@@ -1,8 +1,8 @@
 {
-  "name": "My Online Cookbook",
-  "metaDescription": "The online cookbook of Maël",
+  "name": "Le livre de cuisine de Maël",
+  "metaDescription": "Toutes mes recettes de cuisine",
   "author": "Maël",
-  "primaryColor": "#ffdb70",
-  "secondaryColor": "#32816e",
-  "searchLabel": "Find recipes by name or ingredients"
+  "primaryColor": "#8cb9f1",
+  "secondaryColor": "#4f4284",
+  "searchLabel": "Chercher des recettes par nom ou ingrédients"
 }
