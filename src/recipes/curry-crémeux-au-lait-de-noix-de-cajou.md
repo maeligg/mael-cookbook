@@ -5,7 +5,7 @@ tags:
   - Curry 🍲
   - Végan 🌱
 time: 30 min
-servings: 1
+servings: 2
 ingredients:
   - 150g noix de cajou
   - 400g de légumes (j'utilise le plus souvent des haricots verts, des poivrons,
