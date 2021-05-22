@@ -5,7 +5,7 @@ tags:
   - Favourite ⭐
   - Poissons & fruits de mer 🦐
   - Japonais 🇯🇵
-time: 45 min
+time: 30 min
 servings: 2
 ingredients:
   - 200g riz pour sushi
