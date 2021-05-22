@@ -5,7 +5,7 @@ tags:
   - Favourite ⭐
   - Pâtes 🍝
   - Végétarien 🌿
-time: 15 min
+time: 20 min
 servings: 2
 sourceLabel: Jamie Oliver's 5 ingredients
 sourceURL: https://www.goodreads.com/book/show/35069206-5-ingredients-quick-easy-food
