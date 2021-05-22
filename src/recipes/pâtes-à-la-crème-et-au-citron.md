@@ -4,7 +4,7 @@ image: /recipe-images/creamy-lemon-spaghetti.jpg
 tags:
   - Pâtes 🍝
   - Végétarien 🌿
-time: 30 min
+time: 20 min
 servings: 2
 sourceLabel: le blog d'OwiOwi
 sourceURL: https://owiowifouettemoi.com/2021/04/15/pasta-creme-de-citron/
