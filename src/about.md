@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
 title: À propos
-bodyClass: about
+bodyClass: u-free-text
 ---
 en cours...
