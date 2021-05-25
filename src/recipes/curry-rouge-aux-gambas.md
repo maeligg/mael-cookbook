@@ -2,7 +2,7 @@
 title: Curry rouge aux gambas
 image: /recipe-images/img_20210523_135256.jpg
 tags:
-  - Favourite ⭐️
+  - Favourite ⭐
   - Curry 🍲
   - Poissons & fruits de mer 🦐
 time: 30 min
