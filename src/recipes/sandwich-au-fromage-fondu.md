@@ -2,7 +2,7 @@
 title: Sandwich au fromage fondu
 image: /recipe-images/img_20210512_124759.jpg
 tags:
-  - Favourite ⭐️
+  - Favourite ⭐
   - Végétarien 🌿
   - Fromage 🧀
 time: 20 min
