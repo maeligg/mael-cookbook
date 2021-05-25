@@ -1,6 +1,8 @@
 ---
 title: Burger de portobello
 image: /recipe-images/img_20210514_133646.jpg
+tags:
+  - Végétarien 🌿
 time: 30 min
 servings: 2
 ingredients:
