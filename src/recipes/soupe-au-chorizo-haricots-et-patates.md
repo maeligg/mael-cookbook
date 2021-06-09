@@ -1,6 +1,6 @@
 ---
 title: Soupe au chorizo, haricots et patates
-image: /recipe-images/chorizo-beans-potato-soup.jpg
+image: /img/recipes/chorizo-beans-potato-soup.jpg
 tags:
   - Espagnol 🇪🇸
   - Soupe 🥣

@@ -1,6 +1,6 @@
 ---
 title: Salade de radicchio et d'halloumi
-image: /recipe-images/radicchio-halloumi-salad.jpg
+image: /img/recipes/radicchio-halloumi-salad.jpg
 tags:
   - Salade 🥗
   - Végétarien 🌿

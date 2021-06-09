@@ -1,6 +1,6 @@
 ---
 title: Burger de halloumi
-image: /recipe-images/img_20210523_203701.jpg
+image: /img/recipes/img_20210523_203701.jpg
 tags:
   - Végétarien 🌿
   - Fromage 🧀

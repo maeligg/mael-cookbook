@@ -30,13 +30,13 @@
                                         +
                                         <span class="u-sr-only">Add 1 serving</span>
                                     </button>
-                                    <span> servings</span>
+                                    <span>{{ site.servingsLabel }}</span>
                                 </p>
                             {% endif %}
                         </div>
                     {% endif %}
 
-                    <h3>Ingredients</h3>
+                    <h3>{{ site.ingredientsLabel }}</h3>
                     <template x-if="currentServings">
                         <ul class="c-recipe__ingredients-list">
                             <template x-for="(ingredient, index) in ingredients" :key="index">
@@ -56,7 +56,7 @@
 
                 <div class="c-recipe__instructions-wrapper u-free-text">
                     {% if sourceLabel and sourceURL %}
-                        <p>Source : <a href="{{ sourceURL }}">{{ sourceLabel }}</a></p>
+                        <p>Source : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a></p>
                     {% endif %}
                     {{ content | safe }}
                 </div>

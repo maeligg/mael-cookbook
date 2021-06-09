@@ -1,6 +1,6 @@
 ---
 title: Soupe de poulet aux oeufs
-image: /recipe-images/img_20210520_205132.jpg
+image: /img/recipes/img_20210520_205132.jpg
 tags:
   - Soupe 🥣
   - Chinois 🇨🇳

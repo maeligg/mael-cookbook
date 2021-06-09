@@ -1,6 +1,6 @@
 ---
 title: Curry crémeux au lait de noix de cajou
-image: /recipe-images/creamy-cashew-curry.jpg
+image: /img/recipes/creamy-cashew-curry.jpg
 tags:
   - Curry 🍲
   - Végan 🌱

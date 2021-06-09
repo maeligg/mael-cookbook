@@ -1,8 +1,8 @@
 ---
 title: Gyoza
-image: /recipe-images/gyoza.jpg
+image: /img/recipes/gyoza.jpg
 tags:
-  - Favourite ⭐
+  - Préférée ⭐
   - Japonais 🇯🇵
 time: 1h
 servings: 10

@@ -1,6 +1,6 @@
 ---
 title: Baklava
-image: /recipe-images/baklava.jpg
+image: /img/recipes/baklava.jpg
 tags:
   - Dessert 🍰
   - Levantin

@@ -1,6 +1,6 @@
 ---
 title: Boulettes d'agneau et feta
-image: /recipe-images/lamb-feta-meatballs.jpg
+image: /img/recipes/lamb-feta-meatballs.jpg
 tags:
   - Levantin
 time: 30 min

@@ -1,8 +1,8 @@
 ---
 title: Pâtes au pesto de cavolo nero
-image: /recipe-images/cavolo-nero-pesto-pasta.jpg
+image: /img/recipes/cavolo-nero-pesto-pasta.jpg
 tags:
-  - Favourite ⭐
+  - Préférée ⭐
   - Pâtes 🍝
   - Végétarien 🌿
 time: 20 min

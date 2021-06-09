@@ -1,6 +1,6 @@
 ---
 title: Soupe soba miso aux shiitake et pousses de soja
-image: /recipe-images/soba-noodle-soup-beansprouts-shiitake.jpg
+image: /img/recipes/soba-noodle-soup-beansprouts-shiitake.jpg
 tags:
   - Soupe 🥣
   - Japonais 🇯🇵

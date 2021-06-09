@@ -1,6 +1,6 @@
 ---
 title: Aubergine parmigiana facile
-image: /recipe-images/simple-eggplant-parm.jpg
+image: /img/recipes/simple-eggplant-parm.jpg
 tags:
   - Italien 🇮🇹
   - Végétarien 🌿

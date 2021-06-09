@@ -1,8 +1,8 @@
 ---
 title: Chirashi saumon avocat
-image: /recipe-images/chirashi.jpg
+image: /img/recipes/chirashi.jpg
 tags:
-  - Favourite ⭐
+  - Préférée ⭐
   - Poissons & fruits de mer 🦐
   - Japonais 🇯🇵
 time: 30 min

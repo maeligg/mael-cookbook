@@ -1,6 +1,6 @@
 ---
 title: Dahl de lentilles corail aux épinards
-image: /recipe-images/img_20210516_212832.jpg
+image: /img/recipes/img_20210516_212832.jpg
 tags:
   - Végan 🌱
   - Indien 🇮🇳

@@ -17,11 +17,11 @@
 .c-nav__list {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
 }
 
 .c-nav__logo svg {
-    box-shadow: var(--box-shadow-light);
+    box-shadow: var(--shadow-md);
 }
 
 .c-nav__home {
@@ -50,6 +50,7 @@
 
 .c-nav__nav-item {
     padding: 4px 8px;
+    display: flex;
     color: var(--color-grey-900);
     text-decoration: none;
 
@@ -65,9 +66,4 @@
     background-color: var(--color-grey-900);
     color: var(--color-white);
     border-radius: 6px;
-    // text-decoration: underline 2px currentColor;
-
-    &:hover, &:focus {
-        // text-decoration: underline 4px currentColor;
-    }
 }

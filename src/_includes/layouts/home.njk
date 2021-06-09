@@ -15,19 +15,17 @@ bodyClass: c-home
         <div class="l-container">
             {% set homeSearch = true %}
             {% include "components/search.njk" %}
-            
-            <a x-data="getRandomRecipe()" x-init="initRandomRecipe()" x-bind:href="url" class="c-search__random-link">🔀 {{ randomRecipe }}</a>
         </div>
     </section>
 
-    {% if collections["Favourite ⭐"] %}
+    {% if collections[highlightedTag] %}
         <section class="u-bgc-grey-100">
             <div class="l-container">
-                <h2 class="u-mb-large">{{ favouriteRecipes }}</h2>
+                <h2 class="u-mb-large">{{ highlightedTitle }}</h2>
                 <div class="c-card__wrapper">
-                    {% set favouriteRecipes = collections["Favourite ⭐"] | limit(4) %}
+                    {% set favouriteRecipes = collections[highlightedTag] | limit(4) %}
                     {% for recipe in favouriteRecipes %}
-                        <a class="c-card" href="{{ recipe.url }}">
+                        <div class="c-card">
                             {% recipeimage recipe.data.image, "c-card__image", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
                             <div class="c-card__info">
                                 <div>
@@ -42,34 +40,14 @@ bodyClass: c-home
                                     </div>
                                 {% endif %}
                             </div>
-                            <div class="c-card__title-wrapper">
+                            <a class="c-card__title-wrapper" href="{{ recipe.url }}">
                                 <h3 class="c-card__title">{{ recipe.data.title }}</h3>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
                     {% endfor %}
                 </div>
+                <a href="/tags/{{ highlightedTag | noEmoji | slug }}" class="c-home__highlighted-tag-link">{{ highlightedLinkText }}</a>
             </div>
         </section>
     {% endif %}
-
-    <script>
-        function getRandomRecipe() {
-            return {
-                url: '',
-                initRandomRecipe() {
-                    const random = (recipes) => recipes[Math.floor(Math.random() * recipes.length)];
-
-                    if (sessionStorage.getItem('searchResults')) {
-                        this.url = random(JSON.parse(sessionStorage.getItem('searchResults'))).url;
-                    } else {
-                        fetch('/search.json').then(res => res.json()).then(res => {
-                            sessionStorage.setItem('searchResults', JSON.stringify(res));
-                            this.url = random(res).url;
-                        });
-                    }
-                }
-
-            }
-        }
-    </script>
 {% endblock %}

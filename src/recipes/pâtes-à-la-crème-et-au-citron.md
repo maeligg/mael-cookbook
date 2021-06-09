@@ -1,6 +1,6 @@
 ---
 title: Pâtes à la crème et au citron
-image: /recipe-images/creamy-lemon-spaghetti.jpg
+image: /img/recipes/creamy-lemon-spaghetti.jpg
 tags:
   - Pâtes 🍝
   - Végétarien 🌿

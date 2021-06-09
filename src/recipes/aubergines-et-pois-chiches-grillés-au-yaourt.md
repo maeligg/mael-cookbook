@@ -1,8 +1,8 @@
 ---
 title: Aubergines et pois-chiches grillés au yaourt
-image: /recipe-images/roasted-eggplant-yogurt-chikpeas.jpg
+image: /img/recipes/roasted-eggplant-yogurt-chikpeas.jpg
 tags:
-  - Favourite ⭐
+  - Préférée ⭐
   - Végétarien 🌿
 time: 40 min
 servings: 2
