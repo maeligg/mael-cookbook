@@ -4,7 +4,7 @@ image: /img/recipes/soba-noodle-soup-beansprouts-shiitake.jpg
 tags:
   - Soupe 🥣
   - Japonais 🇯🇵
-  - Végan 🌱
+  - Végétarien 🌿
 time: 25 min
 servings: 2
 ingredients:
