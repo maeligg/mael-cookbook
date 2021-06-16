@@ -2,7 +2,7 @@
 title: Dahl de lentilles corail aux épinards
 image: /img/recipes/img_20210516_212832.jpg
 tags:
-  - Végan 🌱
+  - Végétarien 🌿
   - Indien 🇮🇳
 time: 30 min
 servings: 2
