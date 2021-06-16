@@ -2,7 +2,7 @@
 title: Pak choi braisé
 image: /img/recipes/img_20210522_141454.jpg
 tags:
-  - Végan 🌱
+  - Végétarien 🌿
 time: 30 min
 servings: 1
 ingredients:
