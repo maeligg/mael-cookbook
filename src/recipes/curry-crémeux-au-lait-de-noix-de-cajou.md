@@ -3,7 +3,7 @@ title: Curry crémeux au lait de noix de cajou
 image: /img/recipes/creamy-cashew-curry.jpg
 tags:
   - Curry 🍲
-  - Végan 🌱
+  - Végétarien 🌿
 time: 30 min
 servings: 2
 ingredients:
