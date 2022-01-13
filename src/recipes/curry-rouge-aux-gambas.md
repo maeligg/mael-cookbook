@@ -5,6 +5,7 @@ tags:
   - Préférée ⭐
   - Curry 🍲
   - Poissons & fruits de mer 🦐
+  - Épicé 🌶
 time: 30 min
 servings: 2
 ingredients:
