@@ -7,5 +7,6 @@
     "searchLabel": "Chercher des recettes par nom, tag ou ingrédients",
     "searchContainsLabel": "Contient",
     "servingsLabel": "personnes",
-    "ingredientsLabel": "Ingrédients"
+    "ingredientsLabel": "Ingrédients",
+    "baseURL": "https://mael-recettes.netlify.app"
 }
