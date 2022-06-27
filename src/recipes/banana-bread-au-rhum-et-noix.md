@@ -3,7 +3,6 @@ title: Banana bread au rhum et noix
 image: /img/recipes/banana-bread.jpg
 tags:
   - Dessert 🍰
-  - Végétarien 🌿
 time: 1h
 servings: ""
 sourceLabel: Adapté d'une recette d'Owi Owi
