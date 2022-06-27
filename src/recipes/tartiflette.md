@@ -1,6 +1,6 @@
 ---
 title: Tartiflette
-image: /img/recipes/tartiflette.jpeg
+image: /img/recipes/tartiflette.jpg
 tags:
   - Végétarien 🌿
   - Fromage 🧀
