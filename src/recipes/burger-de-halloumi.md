@@ -4,7 +4,7 @@ image: /img/recipes/img_20210523_203701.jpg
 tags:
   - Végétarien 🌿
   - Fromage 🧀
-  - Barbecue
+  - Barbecue ♨️
 time: 10 min
 servings: 4
 ingredients:
