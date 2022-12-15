@@ -3,7 +3,7 @@ title: Wok de haricots plats, oignons rouges et tofu grillé
 image: /img/recipes/IMG_20220113_125224.jpg
 tags:
   - Végétarien 🌿
-  - Épicé 🌶
+  - Piquant 🌶
   - Préférée ⭐
 time: 25 min
 servings: 2
