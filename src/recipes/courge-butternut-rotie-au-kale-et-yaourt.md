@@ -1,12 +1,13 @@
 ---
-title: Courge butternut rotie au kale et yaourt
+title: Courge butternut rotie au kale épicé et yaourt
 image: /img/recipes/butternut-kale.jpeg
 tags:
   - Végétarien 🌿
   - Automne 🍂
+  - Piquant 🌶
 time: 20 min
 servings: 4
-sourceLabel: Le That Sounds so Good de Carla Lalli Music
+sourceLabel: Le livre "That Sounds so Good" de Carla Lalli Music
 sourceURL: https://www.youtube.com/watch?v=1w7Y1BaYBhs
 ingredients:
   - 1 courge butternut
