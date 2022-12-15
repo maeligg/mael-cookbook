@@ -3,7 +3,7 @@ title: Curry de tomates, pois chiches et haricots verts
 image: /img/recipes/curry-tomates.jpeg
 tags:
   - Curry 🍲
-  - Épicé 🌶
+  - Piquant 🌶
   - Végétarien 🌿
 time: 40 min
 servings: 4
