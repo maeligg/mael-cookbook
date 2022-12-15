@@ -4,7 +4,7 @@ image: /img/recipes/img_20210621_204527.jpg
 tags:
   - Levantin
   - Végétarien 🌿
-  - Épicé 🌶
+  - Piquant 🌶
 time: 30 min
 servings: 2
 ingredients:
