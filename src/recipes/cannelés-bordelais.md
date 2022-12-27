@@ -3,7 +3,7 @@ title: Cannelés bordelais
 image: /img/recipes/cannelés.jpg
 tags:
   - Dessert 🍰
-  - " Français 🇫🇷"
+  - Français 🇫🇷
 time: 2h30
 servings: 10
 sourceLabel: Adapté d'une recette marmiton
