@@ -9,7 +9,7 @@ servings: 10
 sourceLabel: Adapté d'une recette marmiton
 sourceURL: https://www.marmiton.org/recettes/recette_canneles-bordelais_11439.aspx
 ingredients:
-  - 0,5l de lait
+  - 0.5l de lait
   - 1 gousse de vanille
   - 2 cuillères de rhum
   - 100g de farine
