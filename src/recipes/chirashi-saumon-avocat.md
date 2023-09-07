@@ -14,7 +14,7 @@ ingredients:
   - 3 cuillères à soupe de vinaigre de riz
   - 2 cuillères à café de sucre blanc
   - 3 cuillères à soupe de sauce soja
-  - 1 cuillère à soupe de graines de sésame
+  - 1 cuillère à café de graines de sésame
   - un peu de wasabi (optionnel)
   - un peu de gingembre au vinaigre (optionnel)
 ---
