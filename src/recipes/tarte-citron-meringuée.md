@@ -1,6 +1,6 @@
 ---
 title: Tarte au citron meringuée
-image: /img/recipes/tarte_citron_meringuée.jpeg
+image: /img/recipes/tarte_citron_meringuée.jpeg
 tags:
   - Dessert 🍰
   - Préférée ⭐
