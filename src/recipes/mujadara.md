@@ -13,7 +13,7 @@ ingredients:
   - 1 cuillère à café de cumin moulu
   - Un peu de persil (facultatif)
 ---
-F﻿aire cuire les lentilles avec le double d'eau selon les indications du paquet (8 minutes à l'instant pot) et un peu de seul. Avant d'arriver au bout du temps de cuisson, ajouter le riz bien lavé, la même quantité d'eau et terminer la cuisson (3 minutes à l'instant pot).
+F﻿aire cuire les lentilles avec le double d'eau selon les indications du paquet (8 minutes à l'instant pot) et un peu de sel. Avant d'arriver au bout du temps de cuisson, ajouter le riz bien lavé, la même quantité d'eau et terminer la cuisson (3 minutes à l'instant pot).
 
 P﻿endant ce temps, émincer les oignons et les faire revenir dans un peu d'huile à feu fort en remuant régulièrement, puis baisser le feu quand ils commencent à dorer légèrement. Faire cuire encore 3 minutes, puis ajouter un peu d'eau et couvrir.
 
